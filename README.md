@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Palak
+- 👀 I’m interested in web development & designing
+- 🌱 I’m currently learning lots of front end frameworks and design theories
+- 💞️ I’m looking to collaborate on anything & evething I find interesting
+- 📫 Reach out to me on my linkedin https://www.linkedin.com/in/palak-desai4501/
