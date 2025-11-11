@@ -16,10 +16,10 @@ I build intelligent, scalable, and user-focused applications — from AI-driven 
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Java, TypeScript, JavaScript, Python, SQL, C  
-**Frameworks:** React, Next.js, React Native, Angular, Spring Boot, NestJS, Node.js, Express  
+**Languages:** Python, Java, TypeScript, JavaScript, SQL, C  
+**Frameworks:** FastAPI, Flask, React, Next.js, React Native, Angular, Spring Boot, NestJS, Node.js, Express  
 **Databases:** MongoDB, MySQL, PostgreSQL, SQL Server, Firebase  
-**AI Tools:** OpenAI API, LangChain, Claude, Gemini API, Google Vertex AI  
+**AI Tools:** OpenAI API, LangChain, Claude, Cursor, n8n, Gemini API, Vertex AI, Ollama, RAG, BAML,   
 **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, AWS, GCP  
 
 ---
