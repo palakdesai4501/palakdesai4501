@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Master's in Applied Computing (AI)</h3>
 
 <p align="center">
-I build intelligent, scalable, and user-focused applications — from AI-driven meeting assistants to high-performance web and mobile solutions.
+I build intelligent, scalable, and user-focused applications, from AI-driven meeting assistants to high-performance web and mobile solutions.
 </p>
 
 ---
