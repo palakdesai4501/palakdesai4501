@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Palak Desai 👋</h1>
+<h1 align="center">Hi, I'm Palak Desai</h1>
 <h3 align="center">Software Developer | Master's in Applied Computing (AI)</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@ I build intelligent, scalable, and user-focused applications, from AI-driven mee
 
 ---
 
-### 🚀 Highlights
+### Highlights
 - **AI & Automation:** Boosted live transcription accuracy by **30%** using Electron.js, Deepgram, and OpenAI APIs.  
 - **Performance Optimization:** Improved app performance by **40%** through NestJS API restructuring & TanStack Query optimization.  
 - **Full-Stack Development:** Led award-winning *GoTravel France* mobile app, achieving 100+ downloads at launch.  
@@ -24,6 +24,6 @@ I build intelligent, scalable, and user-focused applications, from AI-driven mee
 
 ---
 
-📂 **Portfolio:** [palak-desai.vercel.app](https://palak-desai.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/palak-desai4501](https://www.linkedin.com/in/palak-desai4501)  
-🐙 **GitHub:** [github.com/palakdesai4501](https://github.com/palakdesai4501)
+**Portfolio:** [palak-desai.vercel.app](https://palak-desai.vercel.app)  
+**LinkedIn:** [linkedin.com/in/palak-desai4501](https://www.linkedin.com/in/palak-desai4501)  
+**GitHub:** [github.com/palakdesai4501](https://github.com/palakdesai4501)
