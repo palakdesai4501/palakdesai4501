@@ -6,7 +6,7 @@ Building reliable, intelligent software with GenAI, RAG pipelines, and modern cl
 
 ---
 
-**[Portfolio](https://palak-desai.vercel.app/)** • **[LinkedIn](https://www.linkedin.com/in/palak-desai4501/)** • **[Email](mailto:desailj@uwindsor.ca)**
+**[Portfolio](https://palak-desai.vercel.app/)** • **[LinkedIn](https://www.linkedin.com/in/palak-desai4501/)** • **[Email](mailto:desai1j@uwindsor.ca)**
 
 ---
 
