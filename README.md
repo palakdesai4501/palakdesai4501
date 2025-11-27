@@ -47,7 +47,7 @@ Building reliable, intelligent software with GenAI, RAG pipelines, and modern cl
 
 - **Master of Applied Computing, University of Windsor (2024–2025)**
 - **Best Presenter, CS Demo Day, UWindsor**
-- **Mentor:** Guided 30+ students in programming and projects
+- **Mentor:** Guided 50+ students in programming and projects
 
 ---
 
