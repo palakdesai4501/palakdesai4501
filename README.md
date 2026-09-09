@@ -1,54 +1,44 @@
-# Hi, I'm Palak Desai
+# Palak Desai
 
-**AI Software Engineer | Agent Systems & End-to-End Product Engineering**
+**I build agent systems that run in production without a human watching.**
 
-Building reliable, intelligent software with GenAI, RAG pipelines, and modern cloud stacks. My passion: making real-world impact through scalable, measurable AI/ML products.
+AI Developer at SKADI Cyber Defense Corporation. I own the LLM reasoning core of an autonomous SOC.
 
----
+```
+alert ─▶ ontology short-circuit (90% conf) ─┬─▶ resolved, no model call
+                                            │
+                                            └─▶ LLM reasoning core ─┬─▶ 99.6%  CLOSE
+                                                                    └─▶ analyst queue
+```
 
-**[Portfolio](https://palak-desai.vercel.app/)** • **[LinkedIn](https://www.linkedin.com/in/palak-desai4501/)** • **[Email](mailto:desai1j@uwindsor.ca)**
+### What I work on
 
----
+**Reliability** · ~99.6% autonomous alert closure with zero false negatives on critical threats. Verdicts fuse ML scores, OSINT, and a self-learning ontology.
 
-## Experience at a Glance
+**Cost** · Cut token spend ~50% with layered cost gates and a confidence short-circuit that resolves routine alerts before they ever reach the model.
 
-- **Opreto, Software Developer Co-op (2025):**  
-  Automated AWS onboarding (Pulumi), cutting setup from 2 days to <1 hour.  
-  Built an AI assistant (+30% transcription accuracy) and shipped secure cross-platform releases.
+**Safety** · Schema-validated outputs, Presidio PII redaction, critical-infrastructure refusal gates. Shipped in shadow mode before going live.
 
-- **Adaptable Services, Software Developer (2022–2023):**  
-  Boosted API performance (–30% response time) and delivered robust, responsive React UIs (–40% UI bugs).
+**Evals** · Prediction logging and Expected Calibration Error monitoring that auto-recalibrates when reliability drifts past 15% over 30 days. Regression suite built from real production failures.
 
----
+### Before SKADI
 
-## Projects (Selected Impact)
+- **Opreto**, Software Developer Co-op, 2025 · AWS infrastructure automation with Pulumi, days down to under an hour. AI meeting assistant, 30% better transcription accuracy.
+- **Adaptable Services**, Software Developer, 2022–2023 · API response times down 30%, cross-device UI defects down 40%.
 
-- **OnBoard AI:**  
-  Autonomous multi-agent onboarding (CrewAI, FastAPI), reduced process time 95% (2+ hrs → 5 min).
-- **Cartly:**  
-  RAG-based multimodal shopping assistant (LangChain, Pinecone, BAML), delivered 85%+ precision with sub-second results.
-- **DevHub:**  
-  Real-time social platform with Socket.IO and secure onboarding.
+### Projects
 
----
+- **Cartly** · Multimodal RAG shopping assistant. 85% precision, sub-second image search. LangChain, Gemini Vision, Pinecone, BAML.
+- **OnBoard AI** · Multi-agent onboarding pipeline. 2 hours down to 5 minutes. CrewAI, FastAPI.
 
-## Core Skills
+### Stack
 
-| Cloud & Infra  | Pulumi, AWS (ECS, S3, Cognito, Route53), Docker, GitHub Actions |
-| -------------- | --------------------------------------------------------------- |
-| AI & Vector    | LangChain, Pinecone, Gemini/OpenAI APIs, RAG, BAML, HuggingFace |
-| Backend        | TypeScript, Python, NestJS, GraphQL, Node.js, FastAPI           |
-| Frontend       | React, Next.js, React Native, Figma integration                 |
-| Quality & Dev  | Jest, Playwright, JUnit, CI/CD, 90%+ test coverage              |
+- **Agents & evals** · LangChain, LangGraph, CrewAI, BAML, MCP, calibration monitoring, context engineering
+- **Backend & data** · Python, TypeScript, FastAPI, Node.js, Pinecone, PostgreSQL, Neo4j, Redis
+- **Cloud** · AWS, GCP, Pulumi, Docker, GitHub Actions
 
 ---
 
-## Education & Leadership
+M.Applied Computing (AI), University of Windsor · Ontario, Canada
 
-- **Master of Applied Computing, University of Windsor (2024–2025)**
-- **Best Presenter, CS Demo Day, UWindsor**
-- **Mentor:** Guided 50+ students in programming and projects
-
----
-
-*For more, check individual project READMEs or connect above!*
+**[Portfolio](https://palak-desai.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/palak-desai4501/)** · **[Email](mailto:desai1j@uwindsor.ca)**
